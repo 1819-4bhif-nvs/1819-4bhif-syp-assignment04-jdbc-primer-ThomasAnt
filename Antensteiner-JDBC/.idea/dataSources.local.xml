@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="DerbyDB-localhost" uuid="46096123-1af1-421e-82b3-3f9c723f6d92">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" family="DERBY" exact-version="0.0" />
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+      <user-name>app</user-name>
+    </data-source>
+    <data-source name="DerbyDB-localhost [2]" uuid="91ae5328-70c5-41b3-b01e-fa739a58736e">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" family="DERBY" exact-version="0.0" />
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+      <user-name>app</user-name>
+    </data-source>
+    <data-source name="DerbyDB-localhost [3]" uuid="1cb265f1-3d1b-4265-ac54-ae8b0052b95b">
+      <database-info product="Apache Derby" version="10.14.2.0 - (1828579)" jdbc-version="4.2" driver-name="Apache Derby Network Client JDBC Driver" driver-version="10.14.1.0 - (1808820)" family="DERBY" exact-version="10.14">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="upper" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>app</user-name>
+      <introspection-schemas>*:@</introspection-schemas>
+    </data-source>
+  </component>
+</project>
